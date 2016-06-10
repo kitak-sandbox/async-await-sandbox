@@ -1,0 +1,24 @@
+{
+  "name": "async-await-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitak-sandbox/async-await-sandbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitak-sandbox/async-await-sandbox/issues"
+  },
+  "homepage": "https://github.com/kitak-sandbox/async-await-sandbox#readme",
+  "devDependencies": {
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-3": "^6.5.0"
+  }
+}
